@@ -3,7 +3,8 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-    res.render('about');
+    //res.render('about');
+    res.send("Backend connected!")
 });
 
 module.exports = router;

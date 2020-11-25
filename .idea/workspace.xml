@@ -20,14 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df834128-8641-45d8-974b-e21832c00b1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascripts/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/stylesheets/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/events.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/reddit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ucla-royce-hall@-x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ucla-royce-hall@-x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascripts/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascripts/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/login.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/news.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/IVP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IVP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -35,12 +39,10 @@
       <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/team.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/team.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/base.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/base.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/contact.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/contact.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/footer.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/team.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/team.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +77,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../usac_ivp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -82,11 +85,28 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Samy\Desktop\IVP\public\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Samy\Desktop\IVP\public\stylesheets" />
       <recent name="C:\Users\Samy\Desktop\IVP\public\javascripts" />
       <recent name="C:\Users\Samy\Desktop\IVP\views" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="footer.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public/javascripts/footer.jsx" working-dir="$PROJECT_DIR$/public/javascripts">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.footer.jsx" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -105,6 +125,19 @@
       <workItem from="1605612170352" duration="2061000" />
       <workItem from="1605614286754" duration="43000" />
       <workItem from="1605676672285" duration="40000" />
+      <workItem from="1605677264575" duration="1651000" />
+      <workItem from="1605679153121" duration="12036000" />
+      <workItem from="1605691708688" duration="22000" />
+      <workItem from="1605759896689" duration="83000" />
+      <workItem from="1605761802131" duration="1073000" />
+      <workItem from="1605764334204" duration="5512000" />
+      <workItem from="1605935367871" duration="1104000" />
+      <workItem from="1605961744526" duration="3355000" />
+      <workItem from="1606014121232" duration="2255000" />
+      <workItem from="1606034987807" duration="1048000" />
+      <workItem from="1606038230930" duration="9365000" />
+      <workItem from="1606051490224" duration="1334000" />
+      <workItem from="1606275109237" duration="7556000" />
     </task>
     <servers />
   </component>
@@ -127,29 +160,33 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1459" height="170" key="GridCell.Tab.0.bottom" timestamp="1605614329105">
+    <state x="691" y="275" key="FileChooserDialogImpl" timestamp="1606275145004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1459" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605614329105" />
-    <state width="1459" height="170" key="GridCell.Tab.0.center" timestamp="1605614329105">
+    <state x="691" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606275145004" />
+    <state width="1437" height="170" key="GridCell.Tab.0.bottom" timestamp="1606288686211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1459" height="170" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605614329105" />
-    <state width="1459" height="170" key="GridCell.Tab.0.left" timestamp="1605614329105">
+    <state width="1437" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606288686211" />
+    <state width="1437" height="170" key="GridCell.Tab.0.center" timestamp="1606288686211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1459" height="170" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605614329105" />
-    <state width="1459" height="170" key="GridCell.Tab.0.right" timestamp="1605614329105">
+    <state width="1437" height="170" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606288686211" />
+    <state width="1437" height="170" key="GridCell.Tab.0.left" timestamp="1606288686210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1459" height="170" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605614329105" />
-    <state x="412" y="165" key="SettingsEditor" timestamp="1605612480468">
+    <state width="1437" height="170" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606288686210" />
+    <state width="1437" height="170" key="GridCell.Tab.0.right" timestamp="1606288686211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="412" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605612480468" />
-    <state x="574" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1605612459479">
+    <state width="1437" height="170" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606288686211" />
+    <state x="412" y="165" key="SettingsEditor" timestamp="1605679140937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="574" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605612459479" />
+    <state x="412" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605679140937" />
+    <state x="574" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1605679079802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605679079802" />
   </component>
 </project>
