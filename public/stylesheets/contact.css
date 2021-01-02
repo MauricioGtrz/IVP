@@ -1,0 +1,21 @@
+body {
+    box-sizing: border-box;
+}
+
+form {
+    /* margin: 10%; */
+    width: 400px;
+    /* margin: 10% 40%; */
+}
+
+.container {
+    margin: 10% 30%;
+}
+
+textarea {
+    height: 300px;
+}
+
+a {
+    color: #00B7FF;
+}
